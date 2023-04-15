@@ -5,7 +5,7 @@ def hangman():
   
   i = 0
   
-  words = ["apple", "banana", "cherry", "orange", "watermelon", "grape", "strawberry", "blueberry", "mango", "pineapple", "lemon", "lime", "peach", "pear", "plum", "raspberry", "kiwi", "apricot", "pomegranate", "coconut"]
+  words = ["apple"]
   wrongGuesses = []
 
   hangmanDrawing = [
